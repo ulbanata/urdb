@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  rt_aud_review: 1
+  rt_crit_review: 1
+  image_link: MyString
+  review_score: 1.5
+  num_reviews: 1
+  year_rel: 1
+  month_rel: 1
+  day_rel: 1
+
+two:
+  title: MyString
+  rt_aud_review: 1
+  rt_crit_review: 1
+  image_link: MyString
+  review_score: 1.5
+  num_reviews: 1
+  year_rel: 1
+  month_rel: 1
+  day_rel: 1
