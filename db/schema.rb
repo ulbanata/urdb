@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140310233307) do
+ActiveRecord::Schema.define(version: 20140311000553) do
 
   create_table "actor_movies", force: true do |t|
     t.integer  "actor_id"
